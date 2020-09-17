@@ -1,0 +1,159 @@
+.list-1{
+	background-color: #D1D1D1 ;
+	color: white;
+	padding: 15px;
+	margin: 15px;
+}
+.list-1 ul{
+	padding: 15px;
+	margin: 15px;
+}
+.news-1{
+	background-color: #FFA0E8 ;
+	color: white;
+	padding: 15px;
+	margin: 15px;
+}
+#list-1{
+	padding: 10px;
+	margin: 10px;
+}
+#news{
+	padding: 10px;
+	margin:10px;
+}
+
+#carouselExampleIndicators{
+	padding: 10px;
+	margin: 10px;
+}
+.col-md{
+	padding: 10px;
+	margin: 10px;
+	background-color: 
+}
+button.accordion{
+	background-color: ;
+	color: ;
+	cursor: pointer;
+	padding: 10px;
+    width: 60%;
+    border: none;
+    text-align:center;
+    outline: none;
+    font-size: 24;
+  	transition: 0.4s;
+  
+}
+  button.accordion.active,button.accordion:hover{
+  	background-color: ;}
+  button.accordion:after{
+  	content: '\027950';
+  	font-size: 13px;
+  	color: #777;
+    float: right;
+    margin-left: 5px;
+    text-align: center;
+}
+  button.accordion.active:after{
+  	content: "\2796"
+  	text-align: center;
+  }
+ .social{
+ 	text-align: center;
+ }
+ .book_form{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	box-shadow: rgb(#D1D1D1);
+ 	size: 45;
+ }
+ .form-1{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .form-2{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .buttons{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .blog-cards{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .head-blog-cards{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	text-align: center;
+ }
+ .contact-form{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .shop-page{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .youtube{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .list-trips{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	padding-bottom: 10px;
+ }
+ .display-list-book{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ .mytrip-page{
+ 	padding:10px;
+ 	margin: 10px;
+ }
+ .email-space-mytrip{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	background-color: #93FFE8;
+ }
+ .book-trip-list2{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	font-family: sans-serif;
+ }
+ .update-booking{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
+ #form-update{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	background-color: #9DFF82 ;
+ }
+ .booking-form-primary{
+ 	padding: 10px;
+ 	margin: 10px;
+ 	font-family: sans-serif;
+ }
+ .booking-form-secondary{
+ 	padding: 10px;
+ 	font-family: sans-serif;
+ }
+ .list-display-area{
+ 	padding: 10px;
+ 	font-family: sans-serif;
+ 	margin: 10px;
+ 	background-color: #FFFD6C ;
+ }
+ .update-customer-data{
+ 	padding: 10px;
+ 	font-family: sans-serif;
+ 	margin: 10px;
+ }
+ .contact-alert{
+ 	padding: 10px;
+ 	margin: 10px;
+ }
